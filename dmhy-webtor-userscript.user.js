@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         DMHY with WebTor.io
 // @namespace    https://github.com/gslin/dmhy-webtor-userscript
-// @version      0.20200502.0
+// @version      0.20200502.1
 // @description  Add WebTor.io links to DMHY
 // @author       Gea-Suan Lin <gslin@gslin.com>
 // @match        https://share.dmhy.org/*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
